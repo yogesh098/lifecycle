@@ -1,2 +1,2 @@
-# Task4
-![](app/src/main/res/drawable/task4.gif)
+# LifeCycle
+![](app/src/main/res/drawable/lifecycle.gif)
