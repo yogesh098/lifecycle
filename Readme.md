@@ -1,2 +1,2 @@
-# Task1
-![](app/src/main/res/drawable/task1.png)
+# Task2
+![](app/src/main/res/drawable/task2.gif)
